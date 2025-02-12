@@ -1,0 +1,120 @@
+
+import { altoMain, anakiwa, bittersweet, celadon, chardonnay, lightOrchid, lightWisteria, nomad, saharaSand } from "../colors";
+
+const level2/12/2025 = {
+  size: 9,
+  colorRegions: [
+  [
+    "H",
+    "H",
+    "H",
+    "H",
+    "H",
+    "H",
+    "H",
+    "H",
+    "B"
+  ],
+  [
+    "H",
+    "C",
+    "C",
+    "C",
+    "C",
+    "C",
+    "D",
+    "D",
+    "B"
+  ],
+  [
+    "H",
+    "F",
+    "C",
+    "A",
+    "A",
+    "A",
+    "A",
+    "D",
+    "B"
+  ],
+  [
+    "H",
+    "F",
+    "F",
+    "A",
+    "G",
+    "A",
+    "A",
+    "I",
+    "B"
+  ],
+  [
+    "H",
+    "F",
+    "B",
+    "B",
+    "G",
+    "G",
+    "A",
+    "I",
+    "B"
+  ],
+  [
+    "H",
+    "F",
+    "B",
+    "B",
+    "B",
+    "E",
+    "A",
+    "I",
+    "B"
+  ],
+  [
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "E",
+    "I",
+    "I",
+    "B"
+  ],
+  [
+    "B",
+    "B",
+    "B",
+    "E",
+    "E",
+    "E",
+    "E",
+    "I",
+    "B"
+  ],
+  [
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B"
+  ]
+],
+  regionColors: {
+    A: lightWisteria,
+    B: chardonnay,
+    C: anakiwa,
+    D: celadon,
+    E: altoMain,
+    F: bittersweet,
+    G: saharaSand,
+    H: nomad,
+    I: lightOrchid
+  }
+};
+
+export default level2/12/2025;
